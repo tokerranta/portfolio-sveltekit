@@ -1,1 +1,1 @@
-<h1>Code</h1>
+<h1>Welcome to code page</h1>
